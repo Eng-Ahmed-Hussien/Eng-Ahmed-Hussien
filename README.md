@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hussien</h1>
+
 <h3 align="center">Front end developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ahmed-Hussien1352&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed-Hussien1352" />
-		   <img src="https://img.shields.io/github/followers/Ahmed-Hussien1352?label=Followers" alt="Ahmed-Hussien1352" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Eng-Ahmed-Hussien&label=Profile%20views&color=0e75b6&style=flat" alt="Eng-Ahmed-Hussien" />
+		   <img src="https://img.shields.io/github/followers/Eng-Ahmed-Hussien?label=Followers" alt="Eng-Ahmed-Hussien" />
 </p>
 <br>
 <img align="right" src="https://www.bing.com/th/id/OGC.cb0d139e178018df8b3e778369395ac7?pid=1.7&rurl=https%3a%2f%2ftheninehertz.com%2fwp-content%2fuploads%2f2020%2f06%2ffull-stack-development.gif&ehk=rMJUikzgfJfGY2BgGVZbnowlX%2f9xKUB0vPiUgsYXZCE%3d" width = 350px/>
@@ -26,7 +27,7 @@
 <a href="..." title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>  
     <a href="...." title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
    <a href="http://wa.me/+0201098909476" title="whatsapp"><img src="https://img.shields.io/badge/whatsapp-RED.svg?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>  
-  <a href="https://www.frontendmentor.io/profile/EngMoody" title="Frontend Mentor"><img src="https://img.shields.io/badge/Frontend Mentor-%10d4eefd.svg?style=for-the-badge&logo=Frontend Mentor&logoColor=white"/></a>
+  <a href="https://www.frontendmentor.io/profile/EngMoody" title="Frontend Mentor"><img src="https://img.shields.io/badge/Frontend Mentor-white.svg?style=for-the-badge&logo=Frontend Mentor&logoColor=deepskyblue"/></a>
 </p>
 
 ## 🛠 Languages and Tools
@@ -40,14 +41,15 @@
 </p>
 
 ## 📊 Github Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Hussien1352&theme=tokyonight_duo" alt="manarshahin48" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-Ahmed-Hussien&theme=tokyonight_duo" alt="Eng-Ahmed-Hussien" /></p>
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="Ahmed-Hussien1352's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Hussien1352&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Hussien1352&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Ahmed-Hussien1352" height="230px"/>
+	    <img alt="Eng-Ahmed-Hussien's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Eng-Ahmed-Hussien&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eng-Ahmed-Hussien&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Eng-Ahmed-Hussien" height="230px"/>
 <br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<h3>
+  <i >Note:</i> 👉🏻 " Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level."
+</h3>
   </p>
   
